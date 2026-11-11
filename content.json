@@ -1,0 +1,799 @@
+{
+ "CHAPTERS": [
+  {
+   "id": "welcome",
+   "short": "Welcome",
+   "title": "A warm welcome to new students",
+   "group": "Before you fly",
+   "blurb": "Start here",
+   "sections": [
+    {
+     "h": null,
+     "html": "<p>Congratulations on embarking on an exciting journey! You will have opportunities to develop your academic and leadership potential, and meet people from diverse cultures and backgrounds. Explore this page for useful information as you begin your journey in Singapore.</p><p class=\"note-hand\">Tap the yellow tabs above to flip through each part of your file.</p>"
+    }
+   ]
+  },
+  {
+   "id": "arrival",
+   "short": "Arrival",
+   "title": "Arrival & immigration matters",
+   "group": "Before you fly",
+   "blurb": "When to arrive, what to prepare, immigration questions",
+   "sections": [
+    {
+     "h": "When should you arrive in Singapore?",
+     "html": "<p>You will receive information on the arrival arrangements via email.</p>"
+    },
+    {
+     "h": "What do you need to know/prepare before arriving in Singapore?",
+     "html": "<ul>\n      <li>Travellers entering Singapore must comply with the prevailing <a href=\"http://www.ica.gov.sg/enter-transit-depart/entering-singapore\" target=\"_blank\" rel=\"noopener\">public health requirements and border control measures</a>.</li>\n      <li>Travellers arriving in Singapore must submit the <a href=\"https://www.ica.gov.sg/enter-transit-depart/entering-singapore/sg-arrival-card\" target=\"_blank\" rel=\"noopener\">SG Arrival Card</a>.</li>\n      <li>The address in Singapore is your posted boarding school/hostel.</li>\n      <li>The expected date of departure is the completion date of your studies (e.g. 31 Dec of the year you complete JC2).</li></ul>"
+    },
+    {
+     "h": "What should you prepare for immigration clearance?",
+     "html": "<p>You must have the following documents ready:</p>\n      <ul class=\"docs\"><li>Passport</li><li>SG Arrival Card (applied <a href=\"https://www.ica.gov.sg/enter-transit-depart/entering-singapore/sg-arrival-card\" target=\"_blank\" rel=\"noopener\">online</a>)</li><li>Valid In-Principle Approval Letter for Student's Pass</li><li>Email on School Posting</li></ul>\n      <p>The immigration officer may need to verify the purpose of your trip to Singapore. Some possible questions and suggested answers:</p>\n      <div class=\"chat\">\n        <p class=\"bub q\"><small>Officer</small>How long will you be in Singapore?</p>\n        <p class=\"bub a\"><small>You</small>I will be in Singapore until I complete my JC2 education.</p>\n        <p class=\"bub q\"><small>Officer</small>Why do you not have a Student's Pass?</p>\n        <p class=\"bub a\"><small>You</small>I have an In-Principle Approval letter and my school will help me to complete the Student's Pass application.</p>\n        <p class=\"bub q\"><small>Officer</small>Why do you not have a return air ticket?</p>\n        <p class=\"bub a\"><small>You</small>I will be a full time student in Singapore and will be returning home only during the school holidays next year. I will buy my air ticket closer to the date of travel.</p>\n        <p class=\"bub q\"><small>Officer</small>When does school begin?</p>\n        <p class=\"bub a\"><small>You</small>School starts in the first week of January (for Secondary)/ first week of February (for Junior College).</p>\n      </div>"
+    },
+    {
+     "h": "Unaccompanied Minor Travel Arrangements",
+     "html": "<ul>\n      <li>For airlines that require you to engage the Unaccompanied Minor services, or if you wish to engage this service, please note that the airlines require you to specify a designated adult to receive you upon arrival.</li>\n      <li>You must ensure there is a designated adult in Singapore to receive you. You will need to source for your own contact person for this purpose.</li>\n      <li>Please coordinate with your airline regarding their specific Unaccompanied Minor service policies and ensure all necessary documentation and arrangements are in place before travel.</li></ul>"
+    },
+    {
+     "h": "What should you bring to Singapore?",
+     "html": "<p>Click on the <a href=\"#packing\">suggested packing list</a> tab.</p>"
+    }
+   ]
+  },
+  {
+   "id": "packing",
+   "short": "Packing list",
+   "title": "Packing list",
+   "group": "Before you fly",
+   "blurb": "What to bring, and what you can buy here",
+   "layout": "cards",
+   "intro": "<p>You should not bring too many things into Singapore as there is limited storage space at the hostel. Many of the items can be purchased in Singapore.</p>\n    <p class=\"callout\">You are strongly advised to bring only <b>1 big luggage</b> and hand carry <b>1 medium-sized bag</b>. The transport provided from the airport to the hostel has limited space.</p>",
+   "sections": [
+    {
+     "h": "Personal Documents",
+     "html": "<p>Passport/travel documents, physical Identity Card (Malaysians only), immunisation certificates, certified true copies of birth certificate (translated), academic certificates, school results, CCA records and testimonials, etc.</p>"
+    },
+    {
+     "h": "Personal Effects",
+     "html": "<p>Clothing, sweater/jacket, sports shoes, slippers, water bottle, personal medications, toiletries, thermometer, extra pair of spectacles, travel adaptor, one set of attire for formal occasions, one set of traditional costume (optional), etc.</p>"
+    },
+    {
+     "h": "Mobile phone",
+     "html": "<p>With WhatsApp installed and access to mobile data in Singapore.</p><p>Free Wi-Fi is available at the Singapore airport. There will also be Wi-Fi access in the hostel. See information on the <a href=\"#phone-line\">mobile phone line provided</a> for you.</p>"
+    },
+    {
+     "h": "Other documents",
+     "html": "<p>Email with school posting, In-Principle Approval Letter for Student's Pass.</p>"
+    },
+    {
+     "h": "Items for School",
+     "html": "<p>Stationery, school bag and white shoes for school (with no other colours).</p><p>Most schools would require white shoes. It is advisable to check with the school on the type of shoes which are acceptable.</p>"
+    },
+    {
+     "h": "Photographs",
+     "html": "<p>Coloured passport-sized photographs in digital copy (JPEG format, less than 60 kb file size, 400 by 514 pixels).</p><p>10 hard copies of the photographs (optional).</p><p>Refer to detailed photo guidelines <a href=\"https://www.ica.gov.sg/photo-guidelines\" target=\"_blank\" rel=\"noopener\">here</a>.</p>"
+    },
+    {
+     "h": "Cash",
+     "html": "<p>About SGD700 to cover expenses for the initial 3-4 months before allowances are disbursed. Parents may also wish to arrange for alternative means (e.g. digital bank transfers) to support their child in the initial period.</p>"
+    },
+    {
+     "h": "Laptop/Tablet",
+     "html": "<p>You will be required to purchase a Personal Learning Device (PLD) at your own cost which will be arranged by the school. Check with your school on their purchase policies and requirements. You may bring along a personal laptop or tablet as a spare device.</p>"
+    },
+    {
+     "h": "Items for camping",
+     "html": "<p>Secondary schools may conduct overnight camps. You may wish to bring items such as a sleeping bag. You can refer to this <a href=\"http://go.gov.sg/5dmocpackinglist\" target=\"_blank\" rel=\"noopener\">list of typical items</a>.</p>"
+    }
+   ],
+   "outro": "<p class=\"note-hand\">Note that these items may also be purchased in Singapore.</p>"
+  },
+  {
+   "id": "admin-matters",
+   "short": "Admin matters",
+   "title": "Administrative matters",
+   "group": "Settling in",
+   "blurb": "School posting, Student's Pass, bank account",
+   "sections": [
+    {
+     "h": "School and Hostel Posting",
+     "html": "<p>You will be informed of your school and hostel posting about one week before you arrive. Posting to schools is based on academic fit and vacancies.</p><p>We seek your understanding that we are unable to accommodate requests for changes in the posted school and hostel. You must stay in a hostel throughout the duration of study in Singapore.</p><p>Your school will share with you more information on leave application during designated school holidays.</p>"
+    },
+    {
+     "h": "Student's Pass",
+     "html": "<p>Your school will assist you in the application of a Student's Pass. You must meet any necessary vaccination requirements to be granted the Student's Pass.</p><p>You will need a passport-sized photograph for your Student's Pass application. Please refer to the ICA website for <a href=\"http://ica.gov.sg/photo-guidelines\" target=\"_blank\" rel=\"noopener\">detailed photo guidelines</a>.</p>"
+    },
+    {
+     "h": "Opening of Bank Account and Allowance",
+     "html": "<p>Your school will share more information with you regarding bank account opening. You will need your passport (and Identity Card for Malaysians) when you open a savings account.</p><p>Opening the bank account and crediting of allowance will take at least 8 weeks. Please bring approximately SGD700 for the initial expenses, such as textbooks, school uniforms, hostel deposit and other necessities.</p>"
+    }
+   ]
+  },
+  {
+   "id": "education",
+   "short": "Education",
+   "title": "Education in Singapore",
+   "group": "Settling in",
+   "blurb": "School life, curriculum, Mother Tongue Language",
+   "sections": [
+    {
+     "h": "General Information",
+     "html": "<p>The education system in Singapore emphasises the intellectual, physical, moral and aesthetic development of students. You are expected to take ownership of your learning, perform well in your studies and participate actively in at least one Co-Curricular Activity (CCA).</p>\n      <p>School usually starts at 7.30am on weekdays. Refer to <a href=\"https://www.moe.gov.sg/calendar\" target=\"_blank\" rel=\"noopener\">MOE's website</a> for the school terms and school/public holidays.</p>\n      <p>It is compulsory for all students, regardless of nationality, race and religion, to wear the school uniform. It is to promote school identity and sense of equality without the distinction of race, religion or social status.</p>\n      <p>You must abide by your school's rules and regulations and attend all classes and activities. Your school will help you to adjust to life here and guide you on where to purchase essential school items such as the uniform and learning materials.</p>\n      <p>Find out more about <a href=\"https://www.moe.gov.sg/schoolfinder\" target=\"_blank\" rel=\"noopener\">Singapore schools and their programmes</a>.</p>"
+    },
+    {
+     "h": "Curriculum",
+     "html": "<p>Find out more about the <a href=\"https://www.moe.gov.sg/secondary/schools-offering-full-sbb\" target=\"_blank\" rel=\"noopener\">Curriculum for Secondary Schools</a> and the <a href=\"https://www.moe.gov.sg/post-secondary/a-level-curriculum-and-subject-syllabuses\" target=\"_blank\" rel=\"noopener\">Junior College curriculum</a>.</p>\n      <p>For Integrated Programme (IP), you can refer to <a href=\"https://www.moe.gov.sg/secondary/schools-offering-full-sbb/schools-with-specialised-curriculum/integrated-programme\" target=\"_blank\" rel=\"noopener\">Integrated Programme | MOE</a> and the websites of the respective schools.</p>\n      <p>As a secondary school student, you will be expected to take all your subjects at G3 level. Your allocated subject combination will depend on the options available in your school, and your school will guide you in making your subject choices accordingly. For those not on IP, you will sit for the Singapore-Cambridge Secondary Education Certificate (SEC) examination at the end of Secondary Four. There are grade requirements for certain subjects for admission to Junior College. For more information, you may visit the <a href=\"https://www.moe.gov.sg/post-secondary/admissions/pse/jc-and-mi\" target=\"_blank\" rel=\"noopener\">Ministry of Education (MOE) website</a>.</p>\n      <p>For detailed syllabus of the different subjects, you may also refer to the Singapore Examinations and Assessment Board (SEAB) website for the <a href=\"https://www.seab.gov.sg/secondary-education-certificate-sec/g3-syllabuses-for-school-candidates-2027/\" target=\"_blank\" rel=\"noopener\">SEC syllabuses</a> and <a href=\"https://www.seab.gov.sg/gce-a-level/school-candidates/\" target=\"_blank\" rel=\"noopener\">A-Level syllabuses</a>.</p>"
+    },
+    {
+     "h": "Singapore's Bilingual Policy and Language Requirements",
+     "html": "<p>Under Singapore's bilingual policy, all students in MOE schools must study English and an official Mother Tongue Language (MTL)—Chinese, Malay or Tamil—assigned based on their ethnicity. They must also meet the MTL requirements for JC admission through the SEC examination and for admission to a local Autonomous University (AU) through the GCE A-Level examination.</p>\n      <p>Students who are not of Chinese, Malay or Indian ethnicity must still offer an MTL. If they have previously studied an approved language, they may be allowed to offer it in place of an official MTL. These MTL-in-lieu options include:</p>\n      <ol><li>Non-Tamil Indian Languages: Bengali, Gujarati, Hindi, Punjabi and Urdu</li><li>Asian Languages: Arabic, Burmese and Thai</li><li>Foreign Languages: French, German and Japanese</li></ol>\n      <p>MTL assignment is based on factors such as parentage, nationality and prior language learning. Supporting documents, translated into English if needed, would need to be submitted. These documents could include:</p>\n      <ol><li>Information on the subjects taken and school results for the past 2 years;</li><li>Former MTL/ NTIL/ AsL/FL teacher's comments on the level of proficiency and feedback from school on your academic progress in other subjects.</li></ol>\n      <p>Exemptions are assessed case by case and require strong evidence of little or limited prior language learning. MOE will contact you before your arrival to ask about your MTL preferences.</p>"
+    },
+    {
+     "h": "English Bridging Support (for Secondary level)",
+     "html": "<p>Your school may organise an English bridging programme. This will help to improve your English proficiency and better adjust to the Singapore education system.</p>"
+    },
+    {
+     "h": "Caring for your Well-Being",
+     "html": "<p>Looking after your personal well-being is important as you arrive in a new environment and adjust to life in Singapore.</p><p>By taking care of your physical, social, emotional and mental well-being, you will be able to better manage stress and anxiety and achieve personal success.</p><p>Find out more about <a href=\"#wellbeing\">taking care of your well-being</a>.</p>"
+    }
+   ]
+  },
+  {
+   "id": "living",
+   "short": "Living here",
+   "title": "Living in Singapore",
+   "group": "Settling in",
+   "blurb": "Independent living and sharing a room",
+   "sections": [
+    {
+     "h": "Independent Living in Singapore",
+     "html": "<p>Adapting to life in Singapore involves developing essential independent living skills. As a student, you will need to manage daily responsibilities while building meaningful friendships in both school and hostel living.</p>"
+    },
+    {
+     "h": "Personal Management",
+     "html": "<p>Maintaining good personal hygiene and organisational skills is crucial. This includes keeping your room tidy, managing your school materials, and taking care of your personal grooming. These habits contribute to your well-being and create a positive impression on those around you.</p>"
+    },
+    {
+     "h": "Harmonious Living",
+     "html": "<p>Living in a multicultural environment requires mutual respect and understanding. You will share common spaces with roommates from diverse backgrounds, speaking different languages and practising various religions. Building harmonious relationships means being considerate, respecting personal boundaries and embracing these differences. Remember that positive interactions with your roommates will enhance your overall living experience in Singapore.</p>"
+    }
+   ]
+  },
+  {
+   "id": "useful-info",
+   "short": "Useful info",
+   "title": "Other useful information",
+   "group": "Settling in",
+   "blurb": "Safety, scams, helplines, getting around",
+   "sections": [
+    {
+     "h": "Safety",
+     "html": "<p>Singapore is a safe country but you still need to stay vigilant and protect yourself. Be careful and responsible with your valuables.</p><p>Remember to:</p><ul><li>lock up all important and valuable items.</li><li>avoid leaving your personal belongings unattended.</li></ul>"
+    },
+    {
+     "h": "Scam Alert",
+     "html": "<p>Be wary of falling for scams. Anyone can be a victim. Learn more about <a href=\"http://www.scamalert.sg/\" target=\"_blank\" rel=\"noopener\">scams and how to avoid them</a>.</p><p>You can also check out a video by DBS on banking safely.</p>\n      <a class=\"video\" href=\"https://drive.google.com/file/d/1479E4FHYJhhq_ayI-JBj51ItOQpXQs4w/view?usp=drive_link\" target=\"_blank\" rel=\"noopener\"><span class=\"play\"><svg viewBox=\"0 0 24 24\" fill=\"currentColor\"><path d=\"M8 5v14l11-7z\"/></svg></span><span><b>Banking safely</b><small>Video by DBS · opens in a new tab</small></span></a>"
+    },
+    {
+     "h": "Emergencies and Helplines",
+     "html": "<p>Useful telephone numbers:</p>\n      <div class=\"help\">\n        <div><span>Police (emergency)</span><b>999</b></div>\n        <div><span>Fire/ambulance (emergency)</span><b>995</b></div>\n        <div><span>Fire/ambulance (non-emergency)</span><b>1777</b></div>\n        <div><span>Samaritans of Singapore (SOS), 24 hours</span><b>1800 221 4444</b></div>\n        <div><span>TOUCHline (Counselling) by TOUCH Community Services, 9am - 6pm weekdays</span><b>1800 377 2252</b></div>\n      </div>"
+    },
+    {
+     "h": "Daily Necessities",
+     "html": "<p>You can visit major supermarkets and convenience stores to purchase groceries, household products and basic daily necessities.</p>"
+    },
+    {
+     "h": "Getting around Singapore",
+     "html": "<p>It is easy to get around due to the extensive public transport network of trains, buses and taxis.</p><p>Download the MyTransport app for useful information such as traffic news, journey planning and nearby transport services.</p><p>Learn more about the <a href=\"http://www.visitsingapore.com/travel-guide-tips/getting-around\" target=\"_blank\" rel=\"noopener\">public transport system</a>.</p>"
+    },
+    {
+     "h": "Languages and Singlish",
+     "html": "<p>You will be able to speak English to Singaporeans, most of whom are fluent in it. Singaporeans generally speak an additional language, usually Mandarin Chinese, Malay or Tamil.</p><p>Singaporeans also use an informal, colloquial form of English known as Singlish. Look up some common Singlish terms and watch some Singaporean videos online to get familiarised with some of the Singlish terms.</p>"
+    },
+    {
+     "h": "More about Singapore",
+     "html": "<p>Read more about food, history, culture, and attractions at <a href=\"https://www.visitsingapore.com/en/\" target=\"_blank\" rel=\"noopener\">Visit Singapore</a>.</p>"
+    }
+   ]
+  },
+  {
+   "id": "phone-line",
+   "short": "Phone line",
+   "title": "Mobile phone line in Singapore",
+   "group": "Before you fly",
+   "blurb": "Your eSIM, activation and top-ups",
+   "sections": [
+    {
+     "h": null,
+     "html": "<p>MOE will provide a mobile eSIM card for your use. You do not need to purchase a separate SIM card in Singapore.</p>\n      <p class=\"callout\">Around late October 2026, the mobile service provider will email you the eSIM card and activation instructions.</p>\n      <p>You will need a phone that is compatible with the eSIM to activate it successfully. If you encounter issues with activation or do not have a compatible phone that can install eSIM, please inform your hostel staff after arrival so they can assist to provide you with a physical SIM card instead.</p>\n      <p>Please note that the eSIM has a validity period of <b>30 days</b> upon activation. You must retain your mobile number as it will be required for bank account opening and general communication purposes. To continue using the mobile service, you will need to top up your mobile plan every 30 days. Top-ups can be done at the mobile service provider physical shops, selected retailers at 7-Eleven, Cheers, and FairPrice outlets. Please refer to the list <a href=\"https://www.m1.com.sg/content/dam/M1/files/business/maxx/Retailers.pdf\" target=\"_blank\" rel=\"noopener\">here</a> to find the nearest shop.</p>\n      <p>If you have any queries or need to request a replacement eSIM or SIM card, you should email directly to <span class=\"copy\"><code>m1mktmaxxcorp@m1.com.sg</code><button type=\"button\" data-copy=\"m1mktmaxxcorp@m1.com.sg\">Copy</button></span>. As part of the verification process, when emailing the mobile service provider, you should use the same email that you registered with us when you first arrived and where you received your eSIM.</p>"
+    }
+   ]
+  },
+  {
+   "id": "faq-arrival",
+   "short": "FAQ: Arrival",
+   "title": "FAQ - Arrival matters",
+   "group": "FAQ",
+   "blurb": "Airport pickup, arriving late, SG Arrival Card, money",
+   "faqs": [
+    {
+     "tag": "Secondary only",
+     "q": "Will there be anyone to meet me at the airport or Causeway/Tuas Checkpoint?",
+     "a": "<p>Our representatives will be receiving you at the airport if you arrive at the stipulated date and timings. Transport will be provided to take you from the airport to the hostel.</p><p>You need to inform us at least 2 weeks in advance if you intend to arrive in Singapore at earlier dates or outside of the stipulated timings. You will need to make your own transport arrangements and check in at the hostel by 4pm on the stipulated date.</p><p>For students coming in from the land checkpoints, please make your own transport arrangements to the hostel and check in by 4pm on the stipulated date.</p>"
+    },
+    {
+     "tag": "Secondary only",
+     "q": "I am arriving in Singapore with my parents at the stipulated date and timing. Can they accompany me to the hostel?",
+     "a": "<p>Our representatives will be receiving you at the airport and will make transport arrangements from the airport to the hostel. No transport will be provided for parents. Parents would need to contact the hostel in advance to make an appointment if they wish to visit you.</p>"
+    },
+    {
+     "q": "Can I arrive in Singapore at a later date?",
+     "a": "<p>You are not allowed to defer travel to Singapore or skip any activities arranged for you. Upon taking up the offer to study in Singapore, you are expected to arrive in Singapore on the stipulated date and time. You need to also remain in Singapore to be sufficiently prepared and settled-in to start the school year in January.</p>"
+    },
+    {
+     "q": "Do I need to submit the Singapore Arrival Card (SGAC)? How do I submit?",
+     "a": "<p>All travellers are required to submit their Singapore Arrival Card before arriving in Singapore. The submission is free and can be done at <a href=\"https://eservices.ica.gov.sg/sgarrivalcard/\" target=\"_blank\" rel=\"noopener\">SGAC e-Service</a>. Travellers who fail to comply may be denied entry into Singapore. You may refer to this <a href=\"https://www.myamazingsg.com/_files/ugd/d0aab6_0b6b7ca578a74cf0b9468c2f03d070fb.pdf\" target=\"_blank\" rel=\"noopener\">guide</a> to fill in the SGAC.</p>"
+    },
+    {
+     "q": "I have many things to bring over and I would like to top up the baggage allowance and include additional cartons of food and other items.",
+     "a": "<p>Do not bring excessive items to Singapore as you will not have enough storage space. Please follow the recommended <a href=\"#packing\">packing list</a> and fit inside 1 check-in large luggage and 1 hand carry bag. Be assured that many items can be purchased in Singapore.</p>"
+    },
+    {
+     "q": "Why is the allowance only disbursed at the end of January? How much money should I bring to Singapore?",
+     "a": "<p>Your school will assist you in the opening of a local bank account for the disbursement of allowance after your arrival in Singapore. This process may take some time.</p><p>You should bring enough money for the initial settling-in period (around S$700) to cover expenses (e.g. purchase of textbooks, school uniforms, etc.) before your settling-in allowance is disbursed.</p><p>Your parents may wish to arrange for alternative means (e.g. digital bank transfers) to support you during this initial period so that you do not bring excessive cash.</p>"
+    },
+    {
+     "q": "My passport will expire next year. Should I renew it before coming to Singapore or can I renew it in Singapore?",
+     "a": "<p>Your passport should have at least 6 months validity before coming to Singapore. Preferably, you should renew your passport in your home country before coming to Singapore. You may also do so when you return home during the long school holidays in June or November/December. Alternatively, please check with your Embassy in Singapore on their requirements for passport renewal.</p>"
+    }
+   ]
+  },
+  {
+   "id": "faq-school",
+   "short": "FAQ: School & hostel",
+   "title": "FAQ - School & hostel matters",
+   "group": "FAQ",
+   "blurb": "Postings, hostel rooms, meals, EBS, MTL, falling sick",
+   "faqs": [
+    {
+     "q": "Can I request for a change of school or hostel?",
+     "a": "<p>Your interests, strengths and other factors are taken into consideration during school posting. Rest assured that the best environment will be provided to nurture you. No change of school or hostel will be considered.</p>"
+    },
+    {
+     "q": "I noticed that the hostel I am posted to is not on my school ground.",
+     "a": "<p>Not all hostels are on school grounds. In most cases, it may take about 45 mins to travel from your hostel to school depending on the location.</p>"
+    },
+    {
+     "q": "I have parents or relatives staying in Singapore. May I stay with them instead of in the hostel?",
+     "a": "<p>You are required to stay in the hostel assigned to you. Living in the hostel is a key part of your experience in Singapore. Hostel living provides you with opportunities to learn how to manage your own time, develop independent living skills and build social networks. Keeping an open mind to communal living will also help you to adjust to the life in Singapore much faster.</p>"
+    },
+    {
+     "q": "Regarding hostel living, can I choose my roommates? Would there be privacy like curtains and partitions? Is there air conditioning in the room? Is food included in my hostel stay? Is there Wi-Fi in my hostel room? Are the hostels safe?",
+     "a": "<p>You can expect to share a room with other students in the hostel. There will be 2 to 6 boarders sharing a hostel room. Your room mates are assigned by the hostel.</p><p>Rooms generally do not have partitions and curtains (except for curtains at the windows). You can use the bathroom for privacy to change clothes etc. as needed.</p><p>Most hostels do not have air conditioning. Rooms are well ventilated and fans are provided in each room.</p><p>Hostels generally provide two meals a day (breakfast and dinner) at scheduled timings. You can look forward to a variety of Singapore-style food. Be open to try out different flavours as they may taste different from the food in your own country. Breakfast, lunch and dinner will be available on weekends.</p><p>Wi-Fi is provided in common areas such as study rooms. You will not expect strong signal in your room as it would depend on the distance from the internet router.</p><p>The hostel environment is safe. However, you should exercise personal responsibility to keep your personal belongings secure. You are advised to limit the amount of cash you carry and opt for cards or digital payments where feasible.</p>"
+    },
+    {
+     "q": "I am confident of my English proficiency. Can I skip the English Bridging Support (EBS) programme during Nov to Dec?",
+     "a": "<p>Schools have made arrangements for you to attend the compulsory EBS programme which is designed to help you assimilate into Singapore's education system and living environment. The EBS programme goes beyond levelling up your English proficiency, it also focuses on building your communication and social skills, and helping you to integrate into your new environment alongside the other new scholars in your batch.</p><p>As such, we are unable to cater for requests to be excused from the EBS programme during this period.</p>"
+    },
+    {
+     "q": "Is it mandatory to take a Mother Tongue Language (MTL) in Singapore?",
+     "a": "<p>Yes. All students in mainstream MOE schools must study English and an official MTL—Chinese, Malay or Tamil.</p><p>If you are not of Chinese, Malay or Indian ethnicity and previously learnt another approved language in your home country, you may be allowed to take it instead. These MTL-in-lieu include:</p><ul><li>Non-Tamil Indian Languages: Bengali, Gujarati, Hindi, Punjabi and Urdu</li><li>Asian Languages: Arabic, Burmese and Thai</li><li>Foreign Languages: French, German and Japanese</li></ul><p>You generally cannot be exempted from a language you have learnt before or replace it with another subject. An exemption may be considered only if there is strong evidence that you had little or no prior learning of the language.</p><p>If you wish to take a different MTL from the one assigned based on your ethnicity, or apply for an exemption, you must submit supporting documents, translated into English if needed.</p><p>If your assigned MTL-in-lieu is not taught in mainstream MOE schools, you will need to learn it independently. Your school will guide you on the arrangements.</p>"
+    },
+    {
+     "q": "Can I purchase a laptop or tablet from home to use as my Personal Learning Device (PLD) for school?",
+     "a": "<p>Do not purchase a device on your own because you may not be able to use it in your school. Every school uses a specific model of PLD. The exact model to be used is subject to annual review. Wait for your school's instructions on the purchase policy and requirements. You may bring a personal laptop or tablet as a spare device if you wish.</p>"
+    },
+    {
+     "q": "What size of bedsheet should I bring? Will there be pillows provided?",
+     "a": "<p>Most hostels should provide you with pillow and bedsheet. However, you may bring your own, preferably stretchable super-single size.</p>"
+    },
+    {
+     "q": "What happens if I become unwell? Will the school and hostel provide me with medication?",
+     "a": "<p>If you are unwell, you should consult a doctor for treatment and medication. Access to medical care is readily available in Singapore. Your school and hostel will be able to assist you to find the nearest suitable clinic.</p><p>For safety reasons, school and hostel staff are not authorised to dispense and administer medication.</p>"
+    },
+    {
+     "q": "Do hostel rooms have air-conditioning?",
+     "a": "<p>In line with Singapore's environmental sustainability efforts, most hostel rooms are not air-conditioned. Please be assured that the rooms are well-ventilated and equipped with fans. Common areas such as study rooms in hostels are air-conditioned.</p>"
+    },
+    {
+     "q": "What happens if I have food allergies or dietary requirements?",
+     "a": "<p>Please inform the hostel of your dietary requirements and/or any allergy before arrival so that appropriate arrangements can be made.</p>"
+    },
+    {
+     "q": "What happens if I fall sick?",
+     "a": "<p>You may visit government polyclinics or approved panel GP clinics. Teacher Mentors or hostel staff are available to assist you when needed.</p>"
+    }
+   ]
+  },
+  {
+   "id": "faq-leave",
+   "short": "FAQ: Leave & stay-out",
+   "title": "FAQ - Leave and stay-out matters",
+   "group": "FAQ",
+   "blurb": "Staying out with parents, going home, school holidays",
+   "faqs": [
+    {
+     "q": "Can I stay out with my parents in Singapore between November to December during the English Bridging Support (EBS) programme? My parents have already booked a holiday during November/December. Can I leave the country after I have settled down in Singapore?",
+     "a": "<p>You are expected to remain in Singapore during this bridging period. There will be compulsory orientation activities and EBS classes.</p><p>The orientation and settling-in period in November and December is critical to help you adapt to Singapore, the education system, communal living in a hostel and to form meaningful bonds and friendships with your peers. It also ensures you are sufficiently prepared and settled-in to start the school year in January.</p><p>However, you may stay-out in Singapore during the Christmas period in December if your parents are visiting you. You are not allowed to return home during this period. Please check in with your school on the permitted dates of stay-out before making any plans.</p><p>You would need to return from your stay-out to the hostel a few days before the end of the year. This is to allow you time to settle-in and prepare for the start of the school year.</p><p>If you have valid reasons for leave or stay-out requests outside of the approved dates, you may check in with your school for their consideration.</p>"
+    },
+    {
+     "q": "Can I stay out with my parents in Singapore whenever they come and visit me during school term time including the weekends?",
+     "a": "<p>As part of the overall education experience in Singapore, students must stay in the hostels to develop independence, interact and make friends and learn to live with others. The hostel may arrange a series of activities for boarders during the weekends as well. You are strongly encouraged to participate in such activities.</p><p>As such, stay-out requests with parents in Singapore during term time including the weekends are strongly discouraged. You would need to seek the school's permission in writing for any stay-out requests. The request will be approved on a case-by-case basis.</p><p>You are encouraged to plan your stay-out with parents in Singapore during the school vacation period after school activities.</p>"
+    },
+    {
+     "q": "Can I leave Singapore during term time? Can I return to my home country for medical or dental appointments? I am involved in an event in my home country during school term. Can I apply for leave to return home?",
+     "a": "<p>You are to remain in Singapore and stay at your hostel throughout the school term so that you will not miss lessons and/or school activities. You are only allowed to return home during school vacation periods, for example during the March, June, September and year-end school vacation or other stipulated periods.</p><p>You may leave Singapore during term time only for valid reasons, in which you will need to seek prior approval from your school.</p><p>You are strongly discouraged from engaging in personal or non-Singapore school-related activities which may require you to spend extended time for frequent training and competitions or may affect your studies here (e.g. representing your home country to take part in national competitions or taking National Exams like SPM in your home country which require you to travel to another country and be away from school during term time.).</p><p>Medical or dental appointments which require follow up at your home country should be scheduled during the school vacation period.</p>"
+    },
+    {
+     "q": "Can I stay out with my relatives or friends in Singapore?",
+     "a": "<p>You are not allowed to stay-out with relatives or friends in Singapore at all times.</p>"
+    },
+    {
+     "q": "During the long school vacations, can I choose to continue my stay in the hostel instead of returning home?",
+     "a": "<p>Staying connected with family is important. Hence, we encourage all students to return home to spend time with their family and friends. You need to seek your school and hostel's permission if you decide not to return home.</p>"
+    }
+   ]
+  },
+  {
+   "id": "faq-others",
+   "short": "FAQ: Others",
+   "title": "FAQ - Others",
+   "group": "FAQ",
+   "blurb": "Expenses, after JC2, academic support, challenges",
+   "faqs": [
+    {
+     "q": "What expenses are covered by the scholarship?",
+     "a": "<p>Please refer to your scholarship agreement for more information. Allowances will be credited to your Singapore bank account at a quarterly basis.</p>"
+    },
+    {
+     "q": "What happens after JC2? Can I continue to study in a Singapore university? Are the scholarships available for Undergraduate studies in Singapore?",
+     "a": "<p>Your obligation ends after completing A-Level or equivalent in JC2. You may apply to study in Singapore universities using your A-Level or equivalent qualifications. Admission is on a merit basis such as your academic performance, meeting the entry requirements of the chosen course, and the university's admissions criteria.</p><p>You may check the respective universities website for more information on higher education pathways and opportunities.</p><p>You can also seek advice from your teachers and Education and Career Guidance (ECG) Counsellors on subject combinations, university applications, and post-secondary pathways. Certain degree programmes, such as Medicine and Law, may have additional admission requirements.</p>"
+    },
+    {
+     "q": "What are the academic requirements for me to continue studying in Singapore? And what academic support will be provided to help me?",
+     "a": "<p>Your school and Pastoral officer will share with you more information on academic requirements and expectations when you are in Singapore.</p><p>You are expected to do your best, participate actively in school and hostel life, develop holistically, demonstrate good conduct and build character. If you are underperforming academically or display undesirable behaviours, you will not be able to continue your studies here.</p><p>Please be assured that academic support is available through subject teachers and form teachers. You are encouraged to be proactive and seek help if you require additional guidance.</p>"
+    },
+    {
+     "q": "What are some challenges I will face and how do I overcome them?",
+     "a": "<p>Common challenges include adjusting to the academic pace, adapting to a new education system, learning to be independent without the usual family support, making new friends, and settling into a new living environment.</p><p>You are encouraged to keep a positive and open mindset, participate actively in school and hostel programmes, join group discussions, projects and CCAs, and build friendships in the school and hostel community. You will have pastoral care and support from your school and hostels. You are encouraged to seek help early so that appropriate support and guidance can be provided in a timely manner.</p>"
+    }
+   ]
+  }
+ ],
+ "GROUPS": [
+  "Before you fly",
+  "Settling in",
+  "FAQ"
+ ],
+ "NEW_CH": [
+  "phone-line",
+  "faq-leave"
+ ],
+ "TIPS": [
+  "Stay physically active, eat nutritious food and get enough sleep.",
+  "Wash your clothes well and change them daily.",
+  "Approach your teachers, peers or a school counsellor for help when necessary.",
+  "Always be mindful of being neat in appearance and appropriately attired.",
+  "Stay connected with friends and family.",
+  "Set specific goals that you want to achieve.",
+  "Singapore is hot and humid. Shower at least once a day.",
+  "Make new friends by participating in activities organised for you.",
+  "Learn ways to manage your time well."
+ ],
+ "RESOURCES": [
+  {
+   "h": "Managing your time and academic demands",
+   "links": [
+    [
+     "https://www.how-to-study.com",
+     "www.how-to-study.com"
+    ]
+   ]
+  },
+  {
+   "h": "Self-care tools and resources",
+   "links": [
+    [
+     "https://www.healthhub.sg/programmes/186/mindsg/discover",
+     "www.healthhub.sg/programmes/186/mindsg/discover"
+    ]
+   ]
+  },
+  {
+   "h": "Peer Support",
+   "links": [
+    [
+     "https://www.youthopia.sg",
+     "www.youthopia.sg"
+    ],
+    [
+     "https://www.pa.gov.sg/our-programmes/youth",
+     "www.pa.gov.sg/our-programmes/youth"
+    ],
+    [
+     "https://www.nyc.gov.sg",
+     "www.nyc.gov.sg"
+    ],
+    [
+     "https://www.youthcorps.gov.sg",
+     "www.youthcorps.gov.sg"
+    ]
+   ]
+  }
+ ],
+ "CHECK": [
+  {
+   "id": "fly",
+   "tab": "Before you fly",
+   "hand": "Tick these off as you get ready.",
+   "items": [
+    {
+     "id": "f1",
+     "t": "Passport valid for at least 6 months",
+     "d": "Renew it in your home country if it expires soon."
+    },
+    {
+     "id": "f2",
+     "t": "Submit your SG Arrival Card",
+     "d": "Free, on the ICA e-Service. Your address in Singapore is your hostel.",
+     "go": "arrival"
+    },
+    {
+     "id": "f3",
+     "t": "In-Principle Approval Letter for Student's Pass",
+     "d": "Keep a copy in your hand-carry bag."
+    },
+    {
+     "id": "f4",
+     "t": "Email on your school posting",
+     "d": "You'll need it at immigration clearance."
+    },
+    {
+     "id": "f5",
+     "t": "Digital passport photo",
+     "d": "Coloured, JPEG, under 60 kb, 400 by 514 pixels."
+    },
+    {
+     "id": "f6",
+     "t": "Personal documents packed",
+     "d": "Birth certificate copies (translated), immunisation certificates, academic certificates, school results, CCA records, testimonials."
+    },
+    {
+     "id": "f7",
+     "t": "About SGD700 in cash",
+     "d": "For textbooks, uniforms and the hostel deposit before your allowance comes in."
+    },
+    {
+     "id": "f8",
+     "t": "1 big luggage + 1 medium hand-carry bag",
+     "d": "Airport transport has limited space.",
+     "go": "packing"
+    },
+    {
+     "id": "f9",
+     "t": "White school shoes",
+     "d": "Check with your school which shoes are acceptable."
+    },
+    {
+     "id": "f10",
+     "t": "Phone with WhatsApp, ready for eSIM",
+     "d": "Check your phone supports eSIM.",
+     "go": "phone-line"
+    },
+    {
+     "id": "f11",
+     "t": "Unaccompanied Minor arrangements (if your airline needs them)",
+     "d": "Name a designated adult in Singapore to receive you."
+    },
+    {
+     "id": "f12",
+     "t": "Tell your hostel about any allergies or diet needs",
+     "d": "Do this before you arrive."
+    }
+   ]
+  },
+  {
+   "id": "first",
+   "tab": "First weeks",
+   "hand": "Your first few weeks in Singapore.",
+   "items": [
+    {
+     "id": "w1",
+     "t": "Activate your eSIM",
+     "d": "It's valid for 30 days. Top up every 30 days at M1 shops, 7-Eleven, Cheers or FairPrice.",
+     "go": "phone-line"
+    },
+    {
+     "id": "w2",
+     "t": "Keep your mobile number",
+     "d": "You'll need it to open your bank account."
+    },
+    {
+     "id": "w3",
+     "t": "Student's Pass application with your school",
+     "d": "Your school will help you with this."
+    },
+    {
+     "id": "w4",
+     "t": "Open your bank account",
+     "d": "Bring your passport (and Identity Card for Malaysians). Allowance takes at least 8 weeks."
+    },
+    {
+     "id": "w5",
+     "t": "Get your school uniform and textbooks",
+     "d": "Your school will tell you where to buy them."
+    },
+    {
+     "id": "w6",
+     "t": "Wait for your school's PLD instructions",
+     "d": "Don't buy a laptop or tablet on your own."
+    },
+    {
+     "id": "w7",
+     "t": "Download the MyTransport app",
+     "d": "Journey planning and nearby transport services."
+    },
+    {
+     "id": "w8",
+     "t": "Lock up your valuables",
+     "d": "Don't leave your belongings unattended."
+    },
+    {
+     "id": "w9",
+     "t": "Join at least one CCA",
+     "d": "A great way to make friends."
+    }
+   ]
+  }
+ ],
+ "ANNS": [
+  {
+   "pinned": true,
+   "date": "28 Oct 2026",
+   "title": "Your eSIM is on its way",
+   "body": "The mobile service provider is emailing your eSIM and activation instructions. Check your inbox.",
+   "go": "phone-line"
+  },
+  {
+   "date": "3 Nov 2026",
+   "title": "Orientation is on 30 January",
+   "body": "Help us plan lunch. Vote in the poll on the Feedback page.",
+   "go": "feedback"
+  },
+  {
+   "date": "1 Nov 2026",
+   "title": "New in your guide: leave and stay-out FAQ",
+   "body": "Can you stay out with your parents? Find the answers here.",
+   "go": "faq-leave"
+  }
+ ],
+ "EDMS": [
+  {
+   "title": "Welcome to Singapore!",
+   "sub": "Pre-arrival email 1 · Oct 2026",
+   "go": "welcome"
+  },
+  {
+   "title": "Getting your eSIM ready",
+   "sub": "Pre-arrival email 2 · Oct 2026",
+   "go": "phone-line"
+  },
+  {
+   "title": "What happens on arrival day",
+   "sub": "Pre-arrival email 3 · Jan 2027",
+   "go": "faq-arrival"
+  }
+ ],
+ "PHOTOS": [
+  "Your hostel room",
+  "Orientation day",
+  "Dinner at a hawker centre"
+ ],
+ "POLLS": [
+  {
+   "id": "lunch",
+   "title": "Orientation lunch",
+   "q": "Which local dish would you like to try first?",
+   "opts": [
+    "Chicken rice",
+    "Nasi lemak",
+    "Roti prata",
+    "Laksa"
+   ],
+   "base": [
+    14,
+    19,
+    11,
+    7
+   ]
+  },
+  {
+   "id": "weekend",
+   "title": "First weekend activity",
+   "q": "Which hostel activity would you join first?",
+   "opts": [
+    "Movie night",
+    "Futsal",
+    "Board games",
+    "Cooking class"
+   ],
+   "base": [
+    16,
+    12,
+    9,
+    13
+   ]
+  }
+ ],
+ "FORMS": [
+  {
+   "id": "prearrival",
+   "title": "Pre-arrival feedback",
+   "when": "Open until 25 Jan 2027",
+   "fields": [
+    {
+     "type": "rating",
+     "label": "How ready do you feel to come to Singapore?",
+     "lo": "Not ready",
+     "hi": "Very ready",
+     "req": true
+    },
+    {
+     "type": "choice",
+     "label": "Which part of this site helped you most?",
+     "opts": [
+      "Arrival",
+      "Packing list",
+      "Phone line",
+      "FAQ"
+     ]
+    },
+    {
+     "type": "long",
+     "label": "What are you still unsure about?"
+    }
+   ]
+  },
+  {
+   "id": "hostel",
+   "title": "Hostel feedback",
+   "when": "Always open",
+   "fields": [
+    {
+     "type": "rating",
+     "label": "How are you finding hostel life?",
+     "lo": "Hard",
+     "hi": "Loving it",
+     "req": true
+    },
+    {
+     "type": "choice",
+     "label": "The hostel meals are…",
+     "opts": [
+      "Great",
+      "Okay",
+      "Still getting used to them"
+     ]
+    },
+    {
+     "type": "long",
+     "label": "Anything you would like your hostel to know?"
+    }
+   ]
+  },
+  {
+   "id": "general",
+   "title": "General feedback",
+   "when": "Always open",
+   "fields": [
+    {
+     "type": "short",
+     "label": "What is one thing we should add to this site?",
+     "req": true
+    },
+    {
+     "type": "long",
+     "label": "Anything else?"
+    }
+   ]
+  }
+ ],
+ "SAMPLE_NOTES": [
+  {
+   "to": "Aunty at the hostel canteen",
+   "msg": "Thank you for always saving me some food when I came back late from CCA!",
+   "from": "a JC1 student"
+  },
+  {
+   "to": "My Teacher Mentor",
+   "msg": "You helped me open my bank account and explained everything twice. Thank you for being so patient.",
+   "from": "a new student"
+  },
+  {
+   "to": "My hostel senior",
+   "msg": "Thanks for showing me how to take the MRT on my first weekend. I didn't get lost once!",
+   "from": "your junior"
+  },
+  {
+   "to": "My roommates",
+   "msg": "Friday movie nights made the first month feel like home.",
+   "from": "Room 3-12"
+  }
+ ],
+ "STAGES": [
+  {
+   "name": "Pre-Arrival",
+   "start": "2026-10-01",
+   "end": "2027-01-25"
+  },
+  {
+   "name": "Arrival",
+   "start": "2027-01-26",
+   "end": "2027-01-28"
+  },
+  {
+   "name": "First Weeks",
+   "start": "2027-01-29",
+   "end": "2027-02-01"
+  },
+  {
+   "name": "School Starts",
+   "start": "2027-02-02",
+   "end": "2027-03-12"
+  },
+  {
+   "name": "Holiday Season",
+   "start": "2027-03-13",
+   "end": "2027-03-21"
+  }
+ ],
+ "EVENTS": [
+  {
+   "date": "2026-10-26",
+   "label": "Late Oct",
+   "title": "eSIM and activation steps emailed to you",
+   "go": "phone-line"
+  },
+  {
+   "date": "2026-12-01",
+   "label": "Dec",
+   "title": "MOE contacts you about your Mother Tongue Language preferences",
+   "go": "education"
+  },
+  {
+   "date": "2027-01-18",
+   "label": "Mid Jan",
+   "title": "Email on your school and hostel posting",
+   "go": "admin-matters"
+  },
+  {
+   "date": "2027-01-23",
+   "label": "Before you fly",
+   "title": "Submit your SG Arrival Card",
+   "go": "arrival"
+  },
+  {
+   "date": "2027-01-26",
+   "title": "Arrive in Singapore",
+   "go": "faq-arrival"
+  },
+  {
+   "date": "2027-01-30",
+   "title": "Orientation",
+   "go": "feedback"
+  },
+  {
+   "date": "2027-02-02",
+   "label": "First week Feb",
+   "title": "Junior College starts",
+   "go": "education"
+  },
+  {
+   "date": "2027-03-13",
+   "title": "March school holidays: home leave window",
+   "go": "faq-leave"
+  }
+ ]
+}
